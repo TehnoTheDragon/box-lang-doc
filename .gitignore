@@ -1,0 +1,8 @@
+# Packages
+node_modules/
+
+# Other
+.next
+
+# Editors
+.vscode/
