@@ -89,3 +89,18 @@ fn foo(string bar, string baz) string {
 I think it's final iteration for this topic of complexity.
 
 # Naming
+Naming is tough topic, because we should keep our words as they are but not let keywords to be too much long. As I don't yet have any rules about naming, I can think about create one.
+
+Does it reall much actually matter if we name `fn` to mean mean function instead write `function`?
+
+I think It might be hard to new developers to use such keyword, but I need make my language then specifically for one audience, I mean advanced developers.
+
+I also think that is not really big problem for new developers use something like `fn` instead of `function`, I think it all hard for them, because they are new in programming.
+
+So I will not use `function` just because there few or a lot of people who are new to the box or programming at all. I think it is a not a big deal.
+
+I will still think about the rule of naming, but for now let's pretend that we have a soft rule about naming.
+
+The box language's keywords can be shorter than an actual English word. But It should be readable and have some link/reference to it's original word.  
+As there not really much keywords must be in the language, there not much to change.
+`function` to `fn` probably this is all. Maybe when I will document new version of syntax of box language I will add some keyword that will be shorter
