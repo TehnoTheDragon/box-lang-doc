@@ -1,8 +1,27 @@
-# Packages
-node_modules/
+# deps
+/node_modules
 
-# Other
-.next
+# generated content
+.map.ts
+.contentlayer
 
-# Editors
-.vscode/
+# test & build
+/coverage
+/.next/
+/out/
+/build
+*.tsbuildinfo
+
+# misc
+.DS_Store
+*.pem
+/.pnp
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# others
+.env*.local
+.vercel
+next-env.d.ts
