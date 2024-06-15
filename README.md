@@ -1,1 +1,1 @@
-# Box Lang Documentation
+# Box Lang Docs
