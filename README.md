@@ -18,4 +18,7 @@ Also with this strict rules about what each keyword does, makes it really easy t
 Before I wanted my language be like `C` or `C++` but better, now I moved to `Rust` and it's changed my mind about what I want my language to be or be better than.  
 Of course I want my language be better, I don't know what future will do with it, I don't know if I ever write some compiler to create this language, but I will try.
 
+I want my language be strict but at the same time some aspects should be flexible enough to be able extend the language capabilities, to keep it in a good state.  
+Maybe until release of the language it will be very unstable because everything might change in the next update until I make it more stable and release.
+
 ## Summary
